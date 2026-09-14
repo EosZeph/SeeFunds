@@ -1,4 +1,4 @@
-![Image text](https://github.com/EosZeph/SeeFunds/blob/main/See Funds.ico)
+![Image text](https://github.com/EosZeph/SeeFunds/blame/main/See%20Funds.ico)
 # See Funds
 
 See Funds 是一个本地优先的个人资金分析桌面程序，用于导入微信账单和常见银行 CSV/Excel 账单，并按照现金流口径统计资金来源、资金去向和共同交易主体。
