@@ -131,3 +131,6 @@ cargo test
 ## 许可证
 
 本项目采用 MIT License，详见 [LICENSE](LICENSE)。
+
+请我喝杯Coffee，二维码扫描（非支付）有彩蛋。
+![Image text](https://github.com/EosZeph/SeeFunds/main/反诈宣传.png)
